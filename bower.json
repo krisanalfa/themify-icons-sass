@@ -1,10 +1,10 @@
 {
     "name": "themify-icons-sass",
-    "version": "0.0.1",
-    "homepage": "https://github.com/krisanalfa/themify-icons",
+    "version": "0.0.2",
+    "homepage": "https://github.com/krisanalfa/themify-icons-sass",
     "repository": {
         "type": "git",
-        "url": "https://github.com/krisanalfa/themify-icons"
+        "url": "https://github.com/krisanalfa/themify-icons-sass"
     },
     "description": "Pixel-perfect, hand-crafted icons that draw inspiration from Apple iOS 7",
     "main": [
