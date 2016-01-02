@@ -10,7 +10,7 @@
     "main": [
         "sass",
         "svg",
-        "fonts",
+        "fonts"
     ],
     "keywords": [
         "icons",
